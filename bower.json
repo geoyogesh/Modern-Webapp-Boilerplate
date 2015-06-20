@@ -1,0 +1,24 @@
+{
+  "name": "Personal Website",
+  "version": "0.0.1",
+  "description": "Personal Website",
+  "main": "index.html",
+  "keywords": [
+    "website",
+    "polymer"
+  ],
+  "authors": [
+    "jayakrishnan.89@gmail.com"
+  ],
+  "license": "GPL 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.4"
+  }
+}

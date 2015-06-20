@@ -1,0 +1,20 @@
+{
+  "name": "personalwebsite",
+  "version": "0.0.1",
+  "description": "poersonal website",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "personalwebsite"
+  ],
+  "author": "jayakrishnan.89@gmail.com",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-less": "^3.0.3"
+  }
+}
